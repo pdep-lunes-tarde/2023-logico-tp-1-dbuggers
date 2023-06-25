@@ -7,14 +7,15 @@
 
 - Grupo:
 
-- Nombre y apellido:
-- Legajo:
+- Legajo: 160766-2
+- Nombre: Alejo Travieso
 
-- Nombre y apellido:
-- Legajo:
+- Legajo: 209180-0
+- Nombre: Gonzalo Salas Vetre
 
-- Nombre y apellido:
-- Legajo:
+- Legajo: 167506-0
+- Nombre: Matias Daniel Iannuccilli
+
 
 ## Pre-requisitos
 
