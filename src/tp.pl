@@ -33,9 +33,9 @@ odiaA(charles, Persona):-
 odiaA(carnicero, Persona):-
     odiaA(agatha, Persona).
 
-masRicoQueAgatha(P):-
-    viveEnMansion(P), 
-    not(odiaA(carnicero, P)).
+masRicoQueAgatha(Persona):-
+    viveEnMansion(Persona), 
+    not(odiaA(carnicero, Persona)).
 
 asesino(Victima, Asesino):-
     odiaA(Asesino, Victima), 
