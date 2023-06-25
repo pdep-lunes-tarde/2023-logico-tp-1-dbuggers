@@ -5,8 +5,9 @@
 - [ ] Aceptar el assignment y clonar el repositorio con el ejercicio
 - [ ] Reemplazar nombre, apellido y legajo en este archivo
 
-- Grupo:
+- Nombre del grupo: Dbuggers
 
+Integrantes:
 - Legajo: 160766-2
 - Nombre: Alejo Travieso
 
